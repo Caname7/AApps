@@ -4,3 +4,7 @@
     font-family: 'Poppins', sans-serif;
     text-align: center;
 }
+
+a {
+    color: darkslategray;
+}
